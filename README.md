@@ -8,7 +8,7 @@ some view sample to re use , some normalized models, Methods
 
 ## widget:
   - gridview
-![Alt text](screenshots/Screenshot_gridview.png | width=50)
+![Alt text](screenshots/Screenshot_gridview.png){:height="50%" width="50%"}
 
 
 ## Getting Started
