@@ -6,9 +6,9 @@ some view sample to re use , some normalized models, Methods
 - model sample adapted firebase 
 
 
-## WIDGETS:
+## widget:
   - gridview
-![Alt text](screenshots/Screenshot_gridview.png?width=30&height=100)
+![Alt text](screenshots/Screenshot_gridview.png =130x50)
 
 
 ## Getting Started
