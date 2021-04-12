@@ -1,6 +1,10 @@
 # flutter_app_model
 
-some view sample to reuse , some normalized models, Methods
+some view sample to re use , some normalized models, Methods 
+- widgets samples
+- most used services 
+- model sample adapted firebase 
+
 
 ## Getting Started
 
