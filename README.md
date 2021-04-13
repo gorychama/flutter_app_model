@@ -8,7 +8,12 @@ some view sample to re use , some normalized models, Methods
 
 ## widget:
   - gridview
-![Alt text](screenshots/Screenshot_gridview.png){:height="50%" width="50%"}
+
+{:refdef: style="width: 10px; height: 10px"}
+![Alt text](screenshots/Screenshot_gridview.png)
+{: refdef}
+
+
 
 
 ## Getting Started
