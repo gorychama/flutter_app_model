@@ -7,10 +7,14 @@ some view sample to re use , some normalized models, Methods
 
 
 ## widget:
-  - gridview
+  - gridview : 4 button clickable
 
-![Alt text](screenshots/Screenshot_gridview.png)
+![Alt text](screenshots/gridview.png)
 
+
+  - listview : 4 social media button
+
+![Alt text](screenshots/listview.png)
 
 
 
