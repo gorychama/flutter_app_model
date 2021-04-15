@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_model/widgets/gridsample.dart';
+import 'package:flutter_app_model/widgets/list.dart';
 import 'Const.dart';
 void main() {
   runApp(MyApp());
@@ -94,6 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             // here all sample to re use import from widget/
             GridSample(),
+            list(),
 
           ],
         ),

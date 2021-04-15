@@ -18,7 +18,11 @@ class Const{
   static String Homepagename = "Widget sample";//'Sign out'
 
 
-
+  static List<String> listicon = ["assets/facebookicone.png",
+    "assets/linkedinicon.png",
+    "assets/twittericon.png",
+    "assets/youtubeicon.png",
+  ];
 
 
 
