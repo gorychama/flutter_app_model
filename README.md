@@ -17,6 +17,11 @@ some view sample to re use , some normalized models, Methods
 ![Alt text](screenshots/listview.png)
 
 
+  - Navbar : Main with 4 page and navigation bar
+
+![Alt text](screenshots/canva_navbar.gif)
+
+
 
 ## Getting Started
 
