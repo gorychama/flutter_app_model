@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app_model/widgets/appcanva.dart';
 import 'package:flutter_app_model/widgets/gridsample.dart';
 import 'package:flutter_app_model/widgets/list.dart';
 import 'Const.dart';
@@ -96,7 +97,18 @@ class _MyHomePageState extends State<MyHomePage> {
             // here all sample to re use import from widget/
             GridSample(),
             list(),
+            TextButton(
+                child: Text('AppCanva Navbar'),
+                onPressed: () {
 
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => AppCanva(),
+                    ),
+                  );
+                }
+            )
           ],
         ),
       ),
