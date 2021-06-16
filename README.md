@@ -1,7 +1,7 @@
 # flutter_app_model
 
 some view sample to re use , some normalized models, Methods 
-- widgets samples
+- widgets samples (UI)
 - most used services 
 - model sample adapted firebase 
 
