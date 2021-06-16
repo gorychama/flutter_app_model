@@ -21,7 +21,7 @@ some view sample to re use , some normalized models, Methods
 
 <!-- ![Alt text](screenshots/canva_navbar.gif)
  -->
-<img src="screenshots/canva_navbar.gif" width="50%" height="50%"/>
+<img src="screenshots/canva_navbar.gif" width="30%" height="30%"/>
 
 
 ## Getting Started
