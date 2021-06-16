@@ -19,9 +19,9 @@ some view sample to re use , some normalized models, Methods
 
   - Navbar : Main with 4 page and navigation bar
 
-![Alt text](screenshots/canva_navbar.gif)
-
-<img src="screenshots/canva_navbar.gif" width="50" height="50"/>
+<!-- ![Alt text](screenshots/canva_navbar.gif)
+ -->
+<img src="screenshots/canva_navbar.gif" width="50%" height="50%"/>
 
 
 ## Getting Started
